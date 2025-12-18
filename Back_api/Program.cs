@@ -12,7 +12,6 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// Swagger pipeline
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
