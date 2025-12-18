@@ -5,7 +5,11 @@ Este projeto é uma API de login e gerenciamento de usuários, desenvolvida em .
 As senhas dos usuários são protegidas com criptografia (hash) usando BCrypt.
 
 Video - Swagger UI
-https://github.com/user-attachments/assets/616d3e4f-ef9a-4998-8b8f-76edb546b1cf
+
+
+https://github.com/user-attachments/assets/b01e6cbd-c7ef-428f-a25f-40b50d3104d3
+
+
 
 <h4 >Procedures</h4>
 <img width="748" height="725" alt="criar usuário" src="https://github.com/user-attachments/assets/2dcff299-ebb0-45df-8102-53af8c764980" />
